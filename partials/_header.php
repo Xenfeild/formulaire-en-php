@@ -26,7 +26,7 @@
         <a href="get.php">Get</a>
         <a href="post.php">Post</a>
         <a href="validate-form.php">Validation formulaire</a>
-        <a href="index.php">Upload fichier</a>
+        <a href="upload.php">Upload fichier</a>
     </nav>
     <p class="text-3xl text-center pt-16"><?= $title_page ?></p>
 
